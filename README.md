@@ -1,5 +1,5 @@
-#This is a demo of how to integrate serverless component with your application.
-I've created a serveless component using Azure Function and used the url here in the application for connection. 
+# This is a demo of how to integrate serverless component with your application.
+# I've created a serveless component using Azure Function and used the url here in the application for connection. 
 
 # Getting Started with Create React App
 
