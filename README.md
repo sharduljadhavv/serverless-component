@@ -1,4 +1,5 @@
 # This is a demo of how to integrate serverless component with your application. I've created a serveless component using Azure Function and used the url here in the application for connection. 
+If a string is passed as a parameter then this message is displayed using alert "Hello, 'string'. This message is  a serverless function executed successfully.", if string is not passed then this message "This HTTP triggered function executed successfully. Pass a name in the query string or in the request body for a personalized response." is displayed. 
 
 # Getting Started with Create React App
 
